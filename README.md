@@ -1,4 +1,4 @@
 seatmap
 =======
 
-Seat map using SVG and Raphael.js
+Seat map example using SVG and Raphael.js
